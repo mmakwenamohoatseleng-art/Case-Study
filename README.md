@@ -1,4 +1,4 @@
-## ☕ Bright Coffee Shop — Snowflake Data Case Study
+## ☕ Bright Coffee Shop — Analysis
 
 ## 📖 Overview
 The repository contains details about Bright Coffee Shop, which has 3 different locations. The analysis is for the period of 6months, January to June 2023.This will Determine peak sales hours and time intervals and
