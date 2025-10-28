@@ -14,7 +14,14 @@ Create "Happy Hour" specials to attract customers off-peak.
 Promote Top-Selling Product
 Use a peak customer hours-based loyalty program.
 
-Worksheets
-- SNOWFLAKE SQL
+👩‍💻 Tools & Technologies
+- Snowflake Cloud Data Warehouse
+- SQL for querying and transformation
 - MS EXCEL
-- POWERPOINT
+- PowerPoint Presentation
+- Miro for data architecture planning
+
+
+🏁 Expected Outcomes
+A well-documented Snowflake project simulating a business data pipeline.
+Clear demonstration of how Bright Coffee Shop can make data-driven decisions using Snowflake.
